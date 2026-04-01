@@ -28,10 +28,10 @@ export default async function Home() {
       <div className="mx-auto max-w-6xl px-6 py-16">
         <header className="mb-12">
           <h1 className="text-3xl font-semibold tracking-tight text-zinc-900 dark:text-zinc-50">
-            Robot Learning Datasets
+            TRLC-DK1 Datasets
           </h1>
           <p className="mt-2 text-zinc-500 dark:text-zinc-400">
-            A curated collection of datasets for robot learning research.
+            A curated collection of datasets recorded with The Robot Learning Company's TRLC-DK1.
           </p>
         </header>
         <DatasetExplorer datasets={datasets} />

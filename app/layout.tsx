@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Robot Learning Datasets",
-  description: "A curated collection of datasets for robot learning research.",
+  title: "TRLC Data Explorer",
+  description: "A curated collection of datasets recorded on TRLC-DK1.",
 };
 
 export default function RootLayout({

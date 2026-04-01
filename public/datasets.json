@@ -38,5 +38,13 @@
   { 
     "repo": "FabianKerj/pink_cap_merged",                      
     "preview_key": "observation.images.head" 
+  },
+  { 
+    "repo": "andreaskoepf/dk1_duplo_disassembly",                      
+    "preview_key": "observation.images.head" 
+  },
+  { 
+    "repo": "andreaskoepf/robotwin_dk1_realcam_stack_blocks_two",                      
+    "preview_key": "observation.images.head" 
   }
 ]

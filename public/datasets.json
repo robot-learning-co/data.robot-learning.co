@@ -25,7 +25,7 @@
   },
   { 
     "repo": "dopaul/pcb_placement_v1",                      
-    "preview_key": "observation.images.images.top" 
+    "preview_key": "observation.images.top" 
   },
   { 
     "repo": "sfeduniak/packing-suboptimal-1803",                      
@@ -34,5 +34,9 @@
   { 
     "repo": "FabianKerj/dualarm-pretrain-417ep",                      
     "preview_key": "observation.images.base_0" 
+  },
+  { 
+    "repo": "FabianKerj/pink_cap_merged",                      
+    "preview_key": "observation.images.head" 
   }
 ]

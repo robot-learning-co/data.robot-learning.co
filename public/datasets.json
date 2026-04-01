@@ -1,0 +1,38 @@
+[
+  { 
+    "repo": "Gongsta/trlc_tshirt_folding",                      
+    "preview_key": "observation.images.top" 
+  },
+  { 
+    "repo": "Gongsta/trlc_tshirt_folding_impedance",                      
+    "preview_key": "observation.images.top" 
+  },
+  { 
+    "repo": "apaszynska/merged_diffrenet_grips",                      
+    "preview_key": "observation.images.camera_2" 
+  },
+  { 
+    "repo": "apaszynska/portafilter-regrasp-v6-slow-sticker-merged-remapped-clean",                      
+    "preview_key": "observation.images.camera_0" 
+  },
+  { 
+    "repo": "Zasha01/dk1_left_data",                      
+    "preview_key": "observation.images.cam_context" 
+  },
+  { 
+    "repo": "sfeduniak/towel-1603",                      
+    "preview_key": "observation.images.cam_context" 
+  },
+  { 
+    "repo": "dopaul/pcb_placement_v1",                      
+    "preview_key": "observation.images.images.top" 
+  },
+  { 
+    "repo": "sfeduniak/packing-suboptimal-1803",                      
+    "preview_key": "observation.images.cam_context" 
+  },
+  { 
+    "repo": "FabianKerj/dualarm-pretrain-417ep",                      
+    "preview_key": "observation.images.base_0" 
+  }
+]
